@@ -12,7 +12,7 @@ AdvanchedJavaScript 2
 
 Ei pisteitä ilmoitettu
 
-Tehtävä
+Tehtävä, EI TOIMI 
 
 [LINKKI TEHTÄVÄÄN](https://users.metropolia.fi/~jonnekoi/WSK/WSK_week3/AdvancedJavaScript2/)
 
